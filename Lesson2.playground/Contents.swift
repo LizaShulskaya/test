@@ -249,3 +249,5 @@ let a = 483948
 
 var abc = 109
 var def = 199
+
+let kkgkg = 23
