@@ -248,4 +248,4 @@ str.first
 let a = 483948
 
 var abc = 109
-var def = 8r8r8
+var def = 199
