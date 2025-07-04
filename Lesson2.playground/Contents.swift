@@ -251,3 +251,5 @@ var abc = 109
 var def = 199
 
 let kkgkg = 23
+
+let samy = 678
