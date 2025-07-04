@@ -247,3 +247,4 @@ str.first
 
 let a = 483948
 
+var abc = 109
